@@ -2,6 +2,8 @@
 
 Tutorial [Build Your First Google Assistant](https://medium.com/@dedeandres/build-your-first-google-assistant-c628d35f2067).
 
+<img src="https://raw.githubusercontent.com/dedeandress/CovNews/master/image/google-assistant.gif" alt="Google Assistant Indomie Seleraku" width="250px">
+
 ## Deploying to Heroku
 
 clone or download
